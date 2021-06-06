@@ -1,1 +1,2 @@
-# bioinf_project_G4_H3K4me3
+# hse21_H3K4me3_G4_human
+HSE bioinf project
