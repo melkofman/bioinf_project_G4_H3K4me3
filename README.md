@@ -112,7 +112,11 @@ https://raw.githubusercontent.com/melkofman/bioinf_project_G4_H3K4me3/mokofman/d
  
  Пересекаем пики гистоновой метки со вторичной стуктурой ДНК: 
  
- `bedtools intersect  -a /Users/melanie/Desktop/bioinf/project/gitpr/bioinf_project_G4_H3K4me3/data/G4.bed   -b  /Users/melanie/Desktop/bioinf/project/gitpr/bioinf_project_G4_H3K4me3/data/filtered/H3K4me3_GM12878.merge.hg19.bed >  H3K4me3_GM12878_intersect_G4.bed`
+ 
+ `bedtools intersect  -a /Users/melanie/Desktop/bioinf/project/gitpr/bioinf_project_G4_H3K4me3/data/G4.bed   -b  /Users/melanie/Desktop/bioinf/project/gitpr/bioinf_project_G4_H3K4me3/data/filtered/H3K4me3_GM12878.merge.hg19.bed >  H3K4me3_GM12878_intersect_G4.bed
+ `
+ 
+ 
  
  И визуализируем это: 
  
@@ -123,6 +127,8 @@ https://raw.githubusercontent.com/melkofman/bioinf_project_G4_H3K4me3/mokofman/d
  ![alt text](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/images/intersect_genbr.png "пересечение")
  
  
+ Красным отмечено пересечение, которое мы получили. Синим - объединенные пики. Зеленым - вторичная структура ДНК. 
+ Видно, что красная полоса соответствует пересечению синей и зеленой. 
  
  
  
