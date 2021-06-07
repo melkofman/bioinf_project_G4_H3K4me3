@@ -131,9 +131,25 @@ https://raw.githubusercontent.com/melkofman/bioinf_project_G4_H3K4me3/mokofman/d
  Видно, что красная полоса соответствует пересечению синей и зеленой. 
  
  
+#### Ассоциация пиков с генами. 
+  [Скрипт](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/src/ChIpPeakAnno.R) позволяет получить ассоциацию пиков с генами.  
  
+ Результаты: [гены](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/data/H3K4me3_GM12878_intersect_G4.genes_uniq.txt), [уникальный набор генов](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/data/H3K4me3_GM12878_intersect_G4.genes.txt)
  
+#### GO анализ
+ С помощью [Panther](http://pantherdb.org/) проведем GO анализ. 
  
+ Зададим следующие настройки для анализа: 
+ 
+ ![alt text](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/images/pan_setup.png "настройки для go анализа")
+ 
+ Результаты: 
+ 
+ ![alt text](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/images/resultGO.png "результаты go анализа")
+ 
+ Всего генов 20595. В исходном списке было 943 гена, из которых програма распознала 913. 
+ 
+ [Результаты в виде текстового документа](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/data/analysis.txt)
  
  
  
