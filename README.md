@@ -5,21 +5,21 @@
 #### Начало работы 
 С помощью команды wget были получены необходимые файлы:
 
-`wget https://www.encodeproject.org/files/ENCFF023LTU/@@download/ENCFF023LTU.bed.gz
+`wget https://www.encodeproject.org/files/ENCFF023LTU/@@download/ENCFF023LTU.bed.gz`
 
-wget https://www.encodeproject.org/files/ENCFF432EMI/@@download/ENCFF432EMI.bed.gz`
+`wget https://www.encodeproject.org/files/ENCFF432EMI/@@download/ENCFF432EMI.bed.gz`
 
 Оставили первые пять столбцов:
 
-`zcat ENCFF023LTU.bed.gz | cut -f1-5 > H3K4me3_GM12878.ENCFFo23LTU.hg38.bed
+`zcat ENCFF023LTU.bed.gz | cut -f1-5 > H3K4me3_GM12878.ENCFFo23LTU.hg38.bed`
 
-zcat ENCFF432EMI.bed.gz | cut -f1-5 > H3K4me3_GM12878.ENCFF432EMI.hg38.bed`
+`zcat ENCFF432EMI.bed.gz | cut -f1-5 > H3K4me3_GM12878.ENCFF432EMI.hg38.bed`
 
 С помощью liftOver преобразовали координаты из 38 в 19 версию генома:
 
-`liftOver H3K4me3_GM12878.ENCFFo23LTU.hg38.bed hg38ToHg19.over.chain.gz H3K4me3_GM12878.ENCFF023LTU.hg19.bed H3K4me3_GM12878.ENCFF023LTU.unmapped.bed
+`liftOver H3K4me3_GM12878.ENCFFo23LTU.hg38.bed hg38ToHg19.over.chain.gz H3K4me3_GM12878.ENCFF023LTU.hg19.bed H3K4me3_GM12878.ENCFF023LTU.unmapped.bed`
 
-liftOver H3K4me3_GM12878.ENCFF432EMI.hg38.bed hg38ToHg19.over.chain.gz H3K4me3_GM12878.ENCFF432EMI.hg19.bed H3K4me3_GM12878.ENCFF432EMI.unmapped.bed`
+`liftOver H3K4me3_GM12878.ENCFF432EMI.hg38.bed hg38ToHg19.over.chain.gz H3K4me3_GM12878.ENCFF432EMI.hg19.bed H3K4me3_GM12878.ENCFF432EMI.unmapped.bed`
 
 Затем скачали на локальный ПК данные с сервера. 
 
@@ -52,9 +52,9 @@ liftOver H3K4me3_GM12878.ENCFF432EMI.hg38.bed hg38ToHg19.over.chain.gz H3K4me3_G
 Визуализируем в геномном браузере: 
 
 `track visibility=dense name="ENCFF023LTU"  description="H3K4me3_GM12878.ENCFF023LTU.hg19.filtered.bed"
-https://raw.githubusercontent.com/melkofman/bioinf_project_G4_H3K4me3/mokofman/data/H3K4me3_GM12878.ENCFF023LTU.hg19.bed
+https://raw.githubusercontent.com/melkofman/bioinf_project_G4_H3K4me3/mokofman/data/H3K4me3_GM12878.ENCFF023LTU.hg19.bed`
 
-track visibility=dense name="ENCFF432EMI" description="H3K4me3_GM12878.ENCFF432EMI.hg19.filtered.bed"
+`track visibility=dense name="ENCFF432EMI" description="H3K4me3_GM12878.ENCFF432EMI.hg19.filtered.bed"
 https://raw.githubusercontent.com/melkofman/bioinf_project_G4_H3K4me3/mokofman/data/filtered/H3K4me3_GM12878.ENCFF432EMI.hg19.filtered.bed`
 
 Как видно из визуализации, есть участки аннотации генов, которые попадают в промоторные области. 
