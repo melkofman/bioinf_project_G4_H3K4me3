@@ -78,3 +78,22 @@ https://raw.githubusercontent.com/melkofman/bioinf_project_G4_H3K4me3/mokofman/d
 ![alt text](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/images/chip_seeker.H3K4me3_GM12878.ENCFF432EMI.hg19.filtered.covplot.pdf "H3K4me3_GM12878.ENCFF432EMI.hg19 по хромосомам")
 
 
+#### Работа со вторичной структурой ДНК.
+Вторичная структура G4 находится в [файле](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/data/G4.bed)
+
+Визуализируем в геномном браузере: 
+
+`track visibility=dense name="G4"  color=0,200,0  description="G4"
+https://raw.githubusercontent.com/melkofman/bioinf_project_G4_H3K4me3/mokofman/data/G4.bed
+`
+![alt text](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/images/G4_genBr.png "визуализация G4 в геномном браузере")
+
+Построим распределение длин G4:
+![alt text](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/images/len_hist.G4.png " распределение длины")
+
+
+Теперь посмотрим, куда попадают участки по аннотации генов, используя тот же скрипт, что и выше:
+
+![alt text](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/images/chip_seeker.G4.plotAnnoPie.png "участки по аннотации")
+
+
