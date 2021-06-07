@@ -96,4 +96,41 @@ https://raw.githubusercontent.com/melkofman/bioinf_project_G4_H3K4me3/mokofman/d
 
 ![alt text](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/images/chip_seeker.G4.plotAnnoPie.png "участки по аннотации")
 
+#### Анализ пересечений гистоновой метки и структуры ДНК
+Объединим пики
 
+`cat  *hg19.filtered.bed  |   sort -k1,1 -k2,2n   |   bedtools merge   >  H3K4me3_GM12878.merge.hg19.bed`
+
+
+ Визуализируем это объединение в геномном браузере: 
+ 
+ `track visibility=dense name="ChIP_merge"  color=50,50,200   description=" H3K4me3_GM12878.merge.hg19.bed"
+https://raw.githubusercontent.com/melkofman/bioinf_project_G4_H3K4me3/mokofman/data/filtered/H3K4me3_GM12878.merge.hg19.bed
+`
+
+ ![alt text](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/images/chipmerge.png "объединенные пики")
+ 
+ Пересекаем пики гистоновой метки со вторичной стуктурой ДНК: 
+ 
+ `bedtools intersect  -a /Users/melanie/Desktop/bioinf/project/gitpr/bioinf_project_G4_H3K4me3/data/G4.bed   -b  /Users/melanie/Desktop/bioinf/project/gitpr/bioinf_project_G4_H3K4me3/data/filtered/H3K4me3_GM12878.merge.hg19.bed >  H3K4me3_GM12878_intersect_G4.bed`
+ 
+ И визуализируем это: 
+ 
+ `track visibility=dense name="intersect_with_G4"  color=200,0,0  description=" H3K4me3_GM12878_intersect_G4.bed"
+https://raw.githubusercontent.com/melkofman/bioinf_project_G4_H3K4me3/mokofman/data/H3K4me3_GM12878_intersect_G4.bed
+`
+ 
+ ![alt text](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/images/intersect_genbr.png "пересечение")
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
