@@ -27,24 +27,24 @@
 
 [Скрипт](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/src/len_hist.R) позволяет получить диаграммы распределения длин участков. 
 
-![alt text](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/images/len_hist.H3K4me3_GM12878.ENCFF023LTU.hg19no_filter.pdf "H3K4me3_GM12878.ENCFF023.hg19 до фильтрации")
+![alt text](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/images/len_hist.H3K4me3_GM12878.ENCFF023LTU.hg19.png "H3K4me3_GM12878.ENCFF023.hg19 до фильтрации")
 
-![alt text](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/images/len_hist.H3K4me3_GM12878.ENCFFo23LTU.hg38no_filter.pdf "H3K4me3_GM12878.ENCFFo23LTU.hg38 до фильтрации")
+![alt text](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/images/len_hist.H3K4me3_GM12878.ENCFFo23LTU.hg38.png "H3K4me3_GM12878.ENCFFo23LTU.hg38 до фильтрации")
 
-![alt text](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/images/len_hist.H3K4me3_GM12878.ENCFF432EMI.hg19no_filter.pdf "H3K4me3_GM12878.ENCFF432EMI.hg19 до фильтрации")
+![alt text](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/images/len_hist.H3K4me3_GM12878.ENCFF432EMI.hg19.png "H3K4me3_GM12878.ENCFF432EMI.hg19 до фильтрации")
 
-![alt text](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/images/len_hist.H3K4me3_GM12878.ENCFF432EMI.hg38no_filter.pdf "H3K4me3_GM12878.ENCFF432EMI.hg38 до фильтрации")
+![alt text](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/images/len_hist.H3K4me3_GM12878.ENCFF432EMI.hg38.png "H3K4me3_GM12878.ENCFF432EMI.hg38 до фильтрации")
 
 Теперь отфильтруем, уберем сильно длинные участки (>50000) с помощью [скрипта](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/src/filter_peaks.R).
 Опять построим распределение длин участков и посмотрим, что изменилось: 
 
-![alt text](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/images/len_hist.H3K4me3_GM12878.ENCFF023LTU.hg19.filtered.pdf "H3K4me3_GM12878.ENCFF023LTU.hg19 после фильтрации")
+![alt text](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/images/len_hist.H3K4me3_GM12878.ENCFF023LTU.hg19.filtered.png "H3K4me3_GM12878.ENCFF023LTU.hg19 после фильтрации")
 
-![alt text](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/images/len_hist.H3K4me3_GM12878.ENCFF432EMI.hg38.filtered.pdf "H3K4me3_GM12878.ENCFF023LTU.hg38 после фильтрации")
+![alt text](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/images/len_hist.H3K4me3_GM12878.ENCFFo23LTU.hg38.filtered.png "H3K4me3_GM12878.ENCFF023LTU.hg38 после фильтрации")
 
-![alt text](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/images/len_hist.H3K4me3_GM12878.ENCFF432EMI.hg19.filtered.pdf "H3K4me3_GM12878.ENCFF432EMI.hg19 после фильтрации")
+![alt text](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/images/len_hist.H3K4me3_GM12878.ENCFF432EMI.hg19.filtered.png "H3K4me3_GM12878.ENCFF432EMI.hg19 после фильтрации")
 
-![alt text](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/images/len_hist.H3K4me3_GM12878.ENCFF432EMI.hg38.filtered.pdf "H3K4me3_GM12878.ENCFF432EMI.hg38 после фильтрации")
+![alt text](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/images/len_hist.H3K4me3_GM12878.ENCFF432EMI.hg38.filtered.png "H3K4me3_GM12878.ENCFF432EMI.hg38 после фильтрации")
 
 Как видим, сильных изменений не произошло, было отрезано всего лишь одно чтение. 
 Для дальнейшей работы будем использовать отфильтрованные файлы 19 версии. 
