@@ -1,0 +1,178 @@
+#Split in new
+chr1	121097332	121097710	Peak_26320	110
+#Split in new
+chr1	121184976	121185287	Peak_20247	190
+#Partially deleted in new
+chr1	121187938	121188353	Peak_27690	101
+#Partially deleted in new
+chr1	144077171	144077738	Peak_25227	119
+#Deleted in new
+chr1	144546486	144546858	Peak_26323	110
+#Split in new
+chr1	145214285	145214918	Peak_15182	405
+#Split in new
+chr1	145215715	145216297	Peak_17080	293
+#Partially deleted in new
+chr1	145280502	145280728	Peak_25228	119
+#Split in new
+chr1	145281244	145281836	Peak_27692	101
+#Split in new
+chr1	145286930	145287313	Peak_19775	201
+#Split in new
+chr1	145287406	145288113	Peak_18917	223
+#Split in new
+chr1	145424347	145425243	Peak_12660	705
+#Partially deleted in new
+chr1	145425296	145426320	Peak_8656	1000
+#Partially deleted in new
+chr1	145465564	145465985	Peak_40206	59
+#Split in new
+chr1	146369951	146370488	Peak_22612	149
+#Partially deleted in new
+chr1	146376190	146376605	Peak_20784	180
+#Partially deleted in new
+chr1	146377176	146378009	Peak_23368	139
+#Deleted in new
+chr1	146378311	146378694	Peak_27693	101
+#Deleted in new
+chr1	146386704	146387101	Peak_16382	329
+#Deleted in new
+chr1	146387287	146387747	Peak_19776	201
+#Partially deleted in new
+chr1	148303295	148303726	Peak_23370	139
+#Partially deleted in new
+chr1	148458987	148459752	Peak_13903	525
+#Partially deleted in new
+chr1	148522591	148523099	Peak_18919	223
+#Split in new
+chr1	148529153	148529703	Peak_19333	212
+#Split in new
+chr1	149102429	149102973	Peak_20248	190
+#Split in new
+chr1	149558206	149558787	Peak_19334	212
+#Split in new
+chr1	149607006	149607218	Peak_29238	92
+#Split in new
+chr1	149636204	149636950	Peak_21930	159
+#Split in new
+chr1	149712618	149712995	Peak_14586	457
+#Deleted in new
+chr1	205961279	205963310	Peak_24194	129
+#Deleted in new
+chr1	205983829	205984455	Peak_38265	64
+#Deleted in new
+chr1	235062269	235062956	Peak_27715	101
+#Deleted in new
+chr1	235067075	235069093	Peak_12873	665
+#Deleted in new
+chr1	235069788	235070824	Peak_23380	139
+#Deleted in new
+chr1	235073234	235075506	Peak_16828	305
+#Deleted in new
+chr10	124151683	124154032	Peak_11632	873
+#Deleted in new
+chr10	131899580	131903505	Peak_4921	1000
+#Partially deleted in new
+chr10	49940600	49943571	Peak_9503	1000
+#Partially deleted in new
+chr15	23303904	23304521	Peak_26431	110
+#Partially deleted in new
+chr15	23304867	23305217	Peak_29381	92
+#Partially deleted in new
+chr17	21512846	21513173	Peak_20306	190
+#Deleted in new
+chr17	43231850	43232162	Peak_21995	159
+#Partially deleted in new
+chr17	64333180	64333749	Peak_18359	246
+#Deleted in new
+chr17	64333921	64334531	Peak_20112	195
+#Deleted in new
+chr17	64344019	64344369	Peak_31287	83
+#Deleted in new
+chr17	64378764	64379317	Peak_31288	83
+#Deleted in new
+chr17	64384851	64386474	Peak_11814	843
+#Deleted in new
+chr17	64386520	64388616	Peak_14802	441
+#Deleted in new
+chr17	81429041	81429953	Peak_19839	201
+#Partially deleted in new
+chr17	83100894	83102728	Peak_17409	281
+#Partially deleted in new
+chr17	83103063	83103500	Peak_29460	92
+#Deleted in new
+chr17	83124920	83127164	Peak_19840	201
+#Partially deleted in new
+chr19	44717692	44718088	Peak_27938	101
+#Split in new
+chr2	91478501	91478911	Peak_52018	44
+#Deleted in new
+chr20	28562280	28563589	Peak_18200	247
+#Deleted in new
+chr20	29873896	29874274	Peak_24409	129
+#Deleted in new
+chr20	62616724	62619531	Peak_15508	381
+#Deleted in new
+chr20	62620378	62621059	Peak_16229	341
+#Deleted in new
+chr20	62621216	62625405	Peak_2751	1000
+#Deleted in new
+chr20	62628385	62628718	Peak_34960	72
+#Partially deleted in new
+chr21	6498714	6498942	Peak_46161	51
+#Partially deleted in new
+chr22	23960662	23960891	Peak_29583	92
+#Partially deleted in new
+chr22	49971001	49972073	Peak_17980	257
+#Deleted in new
+chr22	49972206	49972504	Peak_37331	67
+#Deleted in new
+chr22	49975526	49975938	Peak_33839	75
+#Partially deleted in new
+chr3	194319673	194325129	Peak_1142	1000
+#Deleted in new
+chr3	57397396	57397946	Peak_21076	176
+#Partially deleted in new
+chr6	106973827	106974764	Peak_16459	329
+#Partially deleted in new
+chr6	106974916	106976553	Peak_10566	1000
+#Partially deleted in new
+chr7	129144124	129145467	Peak_13965	525
+#Deleted in new
+chr7	233853	235958	Peak_11109	982
+#Split in new
+chr7	74964112	74964334	Peak_34026	75
+#Deleted in new
+chr8	144019981	144020523	Peak_39764	60
+#Deleted in new
+chr9	130321134	130321349	Peak_37613	67
+#Deleted in new
+chr9	136283361	136283909	Peak_22125	159
+#Deleted in new
+chr9	136296710	136297744	Peak_13997	520
+#Deleted in new
+chr9	136311084	136312654	Peak_14979	424
+#Partially deleted in new
+chr9	40915596	40916391	Peak_24596	128
+#Split in new
+chr9	41074364	41075127	Peak_20967	180
+#Split in new
+chr9	41358903	41359527	Peak_12825	680
+#Split in new
+chr9	41643503	41643897	Peak_22127	159
+#Split in new
+chr9	41643992	41644339	Peak_41612	59
+#Partially deleted in new
+chr9	65386719	65387105	Peak_24529	129
+#Split in new
+chr9	65675512	65675821	Peak_21515	169
+#Split in new
+chr9	66270229	66270704	Peak_13973	525
+#Deleted in new
+chrX	149904019	149904587	Peak_24004	133
+#Deleted in new
+chrX	317275	317644	Peak_34099	75
+#Deleted in new
+chrX	317887	318228	Peak_31744	83
+#Partially deleted in new
+chrX	318342	320890	Peak_10243	1000

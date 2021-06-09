@@ -1,0 +1,574 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20210224)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.4735677 Released 2021-05-01
+Analyzed List:	H3K4me3_A549.intersect_with_DeepZ.genes_uniq.txt (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO biological process complete	Homo sapiens - REFLIST (20595)	H3K4me3_A549.intersect_with_DeepZ.genes_uniq.txt (6957)	H3K4me3_A549.intersect_with_DeepZ.genes_uniq.txt (expected)	H3K4me3_A549.intersect_with_DeepZ.genes_uniq.txt (over/under)	H3K4me3_A549.intersect_with_DeepZ.genes_uniq.txt (fold Enrichment)	H3K4me3_A549.intersect_with_DeepZ.genes_uniq.txt (raw P-value)	H3K4me3_A549.intersect_with_DeepZ.genes_uniq.txt (FDR)
+histone H3 acetylation (GO:0043966)	47	35	15.88	+	2.20	5.28E-04	1.80E-02
+DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest (GO:0006977)	58	43	19.59	+	2.19	1.33E-04	5.26E-03
+translesion synthesis (GO:0019985)	42	31	14.19	+	2.19	1.64E-03	4.68E-02
+negative regulation of ERBB signaling pathway (GO:1901185)	53	38	17.90	+	2.12	6.12E-04	2.02E-02
+negative regulation of epidermal growth factor receptor signaling pathway (GO:0042059)	48	34	16.21	+	2.10	1.31E-03	3.85E-02
+ATP-dependent chromatin remodeling (GO:0043044)	77	54	26.01	+	2.08	6.89E-05	2.96E-03
+mitotic G1 DNA damage checkpoint signaling (GO:0031571)	70	49	23.65	+	2.07	1.79E-04	6.87E-03
+postreplication repair (GO:0006301)	52	36	17.57	+	2.05	1.26E-03	3.75E-02
+histone acetylation (GO:0016573)	110	76	37.16	+	2.05	3.69E-06	2.20E-04
+mitotic G1/S transition checkpoint signaling (GO:0044819)	71	49	23.98	+	2.04	1.94E-04	7.34E-03
+DNA damage response, signal transduction by p53 class mediator (GO:0030330)	79	54	26.69	+	2.02	1.20E-04	4.81E-03
+negative regulation of G1/S transition of mitotic cell cycle (GO:2000134)	111	75	37.50	+	2.00	5.95E-06	3.47E-04
+peptidyl-lysine acetylation (GO:0018394)	119	78	40.20	+	1.94	1.05E-05	5.81E-04
+internal peptidyl-lysine acetylation (GO:0018393)	116	76	39.18	+	1.94	1.22E-05	6.62E-04
+internal protein amino acid acetylation (GO:0006475)	118	77	39.86	+	1.93	1.39E-05	7.37E-04
+negative regulation of cell cycle G1/S phase transition (GO:1902807)	115	75	38.85	+	1.93	1.61E-05	8.36E-04
+snRNA transcription (GO:0009301)	71	46	23.98	+	1.92	8.52E-04	2.70E-02
+snRNA transcription by RNA polymerase II (GO:0042795)	70	45	23.65	+	1.90	1.13E-03	3.41E-02
+protein acetylation (GO:0006473)	138	87	46.62	+	1.87	9.44E-06	5.27E-04
+mitotic DNA damage checkpoint signaling (GO:0044773)	119	74	40.20	+	1.84	5.83E-05	2.57E-03
+regulation of G1/S transition of mitotic cell cycle (GO:2000045)	156	96	52.70	+	1.82	7.47E-06	4.31E-04
+chromatin remodeling (GO:0006338)	173	106	58.44	+	1.81	2.90E-06	1.76E-04
+mitotic DNA integrity checkpoint signaling (GO:0044774)	123	75	41.55	+	1.81	1.01E-04	4.15E-03
+ncRNA transcription (GO:0098781)	94	57	31.75	+	1.80	6.70E-04	2.19E-02
+regulation of ERBB signaling pathway (GO:1901184)	94	57	31.75	+	1.80	6.70E-04	2.18E-02
+mitotic cell cycle checkpoint signaling (GO:0007093)	159	96	53.71	+	1.79	1.21E-05	6.58E-04
+protein acylation (GO:0043543)	178	107	60.13	+	1.78	3.88E-06	2.31E-04
+positive regulation of mitochondrion organization (GO:0010822)	90	54	30.40	+	1.78	1.39E-03	4.05E-02
+positive regulation of mRNA catabolic process (GO:0061014)	105	63	35.47	+	1.78	4.68E-04	1.61E-02
+negative regulation of mitotic cell cycle phase transition (GO:1901991)	240	144	81.07	+	1.78	1.14E-07	8.50E-06
+regulation of transcription from RNA polymerase II promoter in response to stress (GO:0043618)	112	67	37.83	+	1.77	3.64E-04	1.29E-02
+negative regulation of protein binding (GO:0032091)	92	55	31.08	+	1.77	1.13E-03	3.41E-02
+liver development (GO:0001889)	138	82	46.62	+	1.76	8.73E-05	3.65E-03
+regulation of DNA-templated transcription in response to stress (GO:0043620)	118	70	39.86	+	1.76	2.69E-04	9.85E-03
+regulation of signal transduction by p53 class mediator (GO:1901796)	201	119	67.90	+	1.75	2.01E-06	1.25E-04
+hepaticobiliary system development (GO:0061008)	141	83	47.63	+	1.74	1.01E-04	4.17E-03
+regulation of mitotic cell cycle phase transition (GO:1901990)	434	255	146.61	+	1.74	5.74E-12	6.98E-10
+covalent chromatin modification (GO:0016569)	367	215	123.97	+	1.73	2.84E-10	2.77E-08
+DNA damage checkpoint signaling (GO:0000077)	142	83	47.97	+	1.73	1.07E-04	4.38E-03
+regulation of cell cycle G1/S phase transition (GO:1902806)	178	104	60.13	+	1.73	1.71E-05	8.79E-04
+peptidyl-lysine modification (GO:0018205)	305	178	103.03	+	1.73	1.28E-08	1.11E-06
+regulation of protein ubiquitination (GO:0031396)	213	124	71.95	+	1.72	2.62E-06	1.60E-04
+histone modification (GO:0016570)	363	211	122.62	+	1.72	7.44E-10	6.96E-08
+signal transduction in response to DNA damage (GO:0042770)	167	97	56.41	+	1.72	3.30E-05	1.59E-03
+regulation of protein modification by small protein conjugation or removal (GO:1903320)	245	142	82.76	+	1.72	6.30E-07	4.26E-05
+regulation of proteasomal ubiquitin-dependent protein catabolic process (GO:0032434)	135	78	45.60	+	1.71	2.48E-04	9.21E-03
+positive regulation of protein ubiquitination (GO:0031398)	123	71	41.55	+	1.71	4.60E-04	1.59E-02
+regulation of dendrite development (GO:0050773)	104	60	35.13	+	1.71	1.50E-03	4.33E-02
+negative regulation of mitotic cell cycle (GO:0045930)	294	169	99.31	+	1.70	7.69E-08	5.93E-06
+cell cycle checkpoint signaling (GO:0000075)	188	108	63.51	+	1.70	2.01E-05	1.02E-03
+DNA integrity checkpoint signaling (GO:0031570)	150	86	50.67	+	1.70	1.53E-04	6.01E-03
+regulation of ubiquitin-dependent protein catabolic process (GO:2000058)	166	95	56.07	+	1.69	5.71E-05	2.54E-03
+positive regulation of mitotic cell cycle (GO:0045931)	112	64	37.83	+	1.69	1.19E-03	3.57E-02
+response to UV (GO:0009411)	151	86	51.01	+	1.69	1.60E-04	6.24E-03
+positive regulation of protein modification by small protein conjugation or removal (GO:1903322)	143	81	48.31	+	1.68	2.68E-04	9.84E-03
+regulation of protein binding (GO:0043393)	196	111	66.21	+	1.68	2.13E-05	1.08E-03
+positive regulation of mRNA metabolic process (GO:1903313)	136	77	45.94	+	1.68	4.58E-04	1.58E-02
+mitotic spindle organization (GO:0007052)	163	92	55.06	+	1.67	1.15E-04	4.67E-03
+regulation of mitochondrion organization (GO:0010821)	160	90	54.05	+	1.67	1.76E-04	6.79E-03
+positive regulation of intracellular protein transport (GO:0090316)	185	104	62.49	+	1.66	5.37E-05	2.43E-03
+mitotic sister chromatid segregation (GO:0000070)	121	68	40.87	+	1.66	1.00E-03	3.09E-02
+vesicle-mediated transport to the plasma membrane (GO:0098876)	118	66	39.86	+	1.66	1.54E-03	4.42E-02
+proteasome-mediated ubiquitin-dependent protein catabolic process (GO:0043161)	338	189	114.18	+	1.66	5.15E-08	4.03E-06
+negative regulation of cell cycle phase transition (GO:1901988)	294	164	99.31	+	1.65	4.07E-07	2.85E-05
+mitotic nuclear division (GO:0140014)	201	112	67.90	+	1.65	3.41E-05	1.64E-03
+negative regulation of cell cycle process (GO:0010948)	368	205	124.31	+	1.65	1.92E-08	1.64E-06
+proteasomal protein catabolic process (GO:0010498)	361	201	121.95	+	1.65	2.50E-08	2.08E-06
+phosphatidylinositol biosynthetic process (GO:0006661)	144	80	48.64	+	1.64	4.83E-04	1.66E-02
+response to endoplasmic reticulum stress (GO:0034976)	260	144	87.83	+	1.64	3.49E-06	2.10E-04
+positive regulation of intracellular transport (GO:0032388)	228	126	77.02	+	1.64	1.48E-05	7.73E-04
+regulation of G2/M transition of mitotic cell cycle (GO:0010389)	212	117	71.61	+	1.63	3.05E-05	1.48E-03
+mitotic cell cycle process (GO:1903047)	675	372	228.02	+	1.63	5.90E-14	9.06E-12
+regulation of mitotic cell cycle (GO:0007346)	588	324	198.63	+	1.63	2.37E-12	2.95E-10
+regulation of cell cycle phase transition (GO:1901987)	522	287	176.33	+	1.63	5.34E-11	5.86E-09
+regulation of cell cycle G2/M phase transition (GO:1902749)	222	122	74.99	+	1.63	2.60E-05	1.29E-03
+chromatin organization (GO:0006325)	703	386	237.47	+	1.63	2.56E-14	4.12E-12
+microtubule cytoskeleton organization involved in mitosis (GO:1902850)	184	101	62.16	+	1.62	1.17E-04	4.72E-03
+regulation of response to DNA damage stimulus (GO:2001020)	223	122	75.33	+	1.62	2.71E-05	1.34E-03
+intrinsic apoptotic signaling pathway (GO:0097193)	150	82	50.67	+	1.62	6.06E-04	2.00E-02
+cell cycle G2/M phase transition (GO:0044839)	143	78	48.31	+	1.61	8.06E-04	2.58E-02
+regulation of mRNA catabolic process (GO:0061013)	252	137	85.13	+	1.61	1.24E-05	6.66E-04
+circadian rhythm (GO:0007623)	138	75	46.62	+	1.61	1.13E-03	3.40E-02
+cell division (GO:0051301)	498	270	168.22	+	1.60	6.43E-10	6.09E-08
+negative regulation of cell cycle (GO:0045786)	454	246	153.36	+	1.60	3.91E-09	3.53E-07
+endosomal transport (GO:0016197)	235	127	79.38	+	1.60	3.17E-05	1.53E-03
+regulation of proteasomal protein catabolic process (GO:0061136)	187	101	63.17	+	1.60	2.16E-04	8.10E-03
+ubiquitin-dependent protein catabolic process (GO:0006511)	545	294	184.10	+	1.60	1.51E-10	1.56E-08
+regulation of mRNA stability (GO:0043488)	241	130	81.41	+	1.60	2.36E-05	1.19E-03
+regulation of cellular protein catabolic process (GO:1903362)	256	138	86.48	+	1.60	1.42E-05	7.46E-04
+G2/M transition of mitotic cell cycle (GO:0000086)	141	76	47.63	+	1.60	1.26E-03	3.74E-02
+negative regulation of cellular amide metabolic process (GO:0034249)	206	111	69.59	+	1.60	1.16E-04	4.68E-03
+mitotic cell cycle (GO:0000278)	750	404	253.35	+	1.59	4.60E-14	7.13E-12
+DNA repair (GO:0006281)	531	286	179.37	+	1.59	3.31E-10	3.19E-08
+modification-dependent macromolecule catabolic process (GO:0043632)	563	303	190.18	+	1.59	9.94E-11	1.07E-08
+negative regulation of translation (GO:0017148)	184	99	62.16	+	1.59	2.53E-04	9.39E-03
+modification-dependent protein catabolic process (GO:0019941)	552	297	186.47	+	1.59	1.48E-10	1.54E-08
+regulation of RNA stability (GO:0043487)	253	136	85.46	+	1.59	1.68E-05	8.66E-04
+sister chromatid segregation (GO:0000819)	149	80	50.33	+	1.59	9.96E-04	3.08E-02
+regulation of proteolysis involved in cellular protein catabolic process (GO:1903050)	222	119	74.99	+	1.59	7.21E-05	3.08E-03
+positive regulation of protein catabolic process (GO:0045732)	237	127	80.06	+	1.59	4.36E-05	2.04E-03
+DNA replication (GO:0006260)	273	146	92.22	+	1.58	1.17E-05	6.41E-04
+cellular response to DNA damage stimulus (GO:0006974)	793	423	267.88	+	1.58	3.96E-14	6.26E-12
+positive regulation of cellular protein catabolic process (GO:1903364)	156	83	52.70	+	1.58	9.79E-04	3.05E-02
+positive regulation of canonical Wnt signaling pathway (GO:0090263)	151	80	51.01	+	1.57	1.37E-03	4.00E-02
+cellular protein catabolic process (GO:0044257)	644	341	217.54	+	1.57	2.49E-11	2.86E-09
+organelle localization by membrane tethering (GO:0140056)	170	90	57.43	+	1.57	7.20E-04	2.33E-02
+proteolysis involved in cellular protein catabolic process (GO:0051603)	609	322	205.72	+	1.57	1.22E-10	1.29E-08
+regulation of macroautophagy (GO:0016241)	161	85	54.39	+	1.56	1.13E-03	3.40E-02
+spindle organization (GO:0007051)	224	118	75.67	+	1.56	1.26E-04	5.02E-03
+mitotic cell cycle phase transition (GO:0044772)	262	138	88.50	+	1.56	3.58E-05	1.71E-03
+protein polyubiquitination (GO:0000209)	325	171	109.79	+	1.56	4.07E-06	2.41E-04
+regulation of gene expression, epigenetic (GO:0040029)	173	91	58.44	+	1.56	7.90E-04	2.54E-02
+positive regulation of catabolic process (GO:0009896)	519	273	175.32	+	1.56	4.30E-09	3.84E-07
+membrane docking (GO:0022406)	179	94	60.47	+	1.55	7.40E-04	2.38E-02
+double-strand break repair (GO:0006302)	204	107	68.91	+	1.55	2.93E-04	1.06E-02
+peptidyl-serine phosphorylation (GO:0018105)	185	97	62.49	+	1.55	5.54E-04	1.86E-02
+autophagy (GO:0006914)	309	162	104.38	+	1.55	8.33E-06	4.75E-04
+process utilizing autophagic mechanism (GO:0061919)	309	162	104.38	+	1.55	8.33E-06	4.73E-04
+chromosome organization (GO:0051276)	1064	557	359.42	+	1.55	3.40E-17	7.37E-15
+phospholipid biosynthetic process (GO:0008654)	289	151	97.62	+	1.55	1.92E-05	9.82E-04
+cell cycle phase transition (GO:0044770)	270	141	91.21	+	1.55	3.61E-05	1.72E-03
+protein-containing complex disassembly (GO:0032984)	228	119	77.02	+	1.55	1.80E-04	6.89E-03
+rhythmic process (GO:0048511)	269	140	90.87	+	1.54	4.43E-05	2.06E-03
+regulation of protein catabolic process (GO:0042176)	398	207	134.44	+	1.54	6.27E-07	4.25E-05
+protein catabolic process (GO:0030163)	697	362	235.45	+	1.54	4.38E-11	4.88E-09
+response to topologically incorrect protein (GO:0035966)	191	99	64.52	+	1.53	6.61E-04	2.16E-02
+nuclear export (GO:0051168)	166	86	56.07	+	1.53	1.67E-03	4.75E-02
+regulation of cell cycle process (GO:0010564)	792	410	267.54	+	1.53	2.82E-12	3.48E-10
+macroautophagy (GO:0016236)	199	103	67.22	+	1.53	5.21E-04	1.78E-02
+macromolecule methylation (GO:0043414)	257	133	86.81	+	1.53	8.08E-05	3.41E-03
+Ras protein signal transduction (GO:0007265)	176	91	59.45	+	1.53	1.39E-03	4.05E-02
+regulation of intracellular protein transport (GO:0033157)	256	132	86.48	+	1.53	9.88E-05	4.09E-03
+positive regulation of cellular catabolic process (GO:0031331)	450	232	152.01	+	1.53	2.58E-07	1.87E-05
+cellular response to decreased oxygen levels (GO:0036294)	202	104	68.24	+	1.52	5.67E-04	1.90E-02
+cellular response to oxygen levels (GO:0071453)	220	113	74.32	+	1.52	3.66E-04	1.30E-02
+regulation of autophagy (GO:0010506)	331	170	111.81	+	1.52	1.22E-05	6.63E-04
+cellular macromolecule catabolic process (GO:0044265)	925	475	312.47	+	1.52	9.68E-14	1.46E-11
+regulation of canonical Wnt signaling pathway (GO:0060828)	298	153	100.66	+	1.52	3.89E-05	1.84E-03
+regulation of cellular catabolic process (GO:0031329)	899	461	303.68	+	1.52	3.03E-13	4.28E-11
+protein modification by small protein removal (GO:0070646)	295	151	99.65	+	1.52	4.50E-05	2.07E-03
+cellular response to insulin stimulus (GO:0032869)	174	89	58.78	+	1.51	1.67E-03	4.75E-02
+regulation of cell cycle (GO:0051726)	1164	594	393.20	+	1.51	1.49E-16	3.10E-14
+phosphatidylinositol metabolic process (GO:0046488)	181	92	61.14	+	1.50	1.61E-03	4.61E-02
+mRNA splicing, via spliceosome (GO:0000398)	303	154	102.35	+	1.50	4.49E-05	2.08E-03
+RNA splicing, via transesterification reactions with bulged adenosine as nucleophile (GO:0000377)	303	154	102.35	+	1.50	4.49E-05	2.07E-03
+negative regulation of canonical Wnt signaling pathway (GO:0090090)	187	95	63.17	+	1.50	1.48E-03	4.29E-02
+glycerophospholipid biosynthetic process (GO:0046474)	252	128	85.13	+	1.50	2.18E-04	8.15E-03
+regulation of catabolic process (GO:0009894)	1066	541	360.10	+	1.50	7.48E-15	1.27E-12
+protein deubiquitination (GO:0016579)	278	141	93.91	+	1.50	1.11E-04	4.54E-03
+regulation of binding (GO:0051098)	365	185	123.30	+	1.50	9.56E-06	5.32E-04
+RNA splicing, via transesterification reactions (GO:0000375)	306	155	103.37	+	1.50	4.84E-05	2.22E-03
+response to insulin (GO:0032868)	241	122	81.41	+	1.50	3.24E-04	1.17E-02
+regulation of DNA metabolic process (GO:0051052)	372	188	125.66	+	1.50	9.13E-06	5.12E-04
+regulation of mRNA metabolic process (GO:1903311)	376	190	127.01	+	1.50	8.10E-06	4.64E-04
+cellular response to hypoxia (GO:0071456)	193	97	65.20	+	1.49	1.72E-03	4.88E-02
+mRNA catabolic process (GO:0006402)	215	108	72.63	+	1.49	9.82E-04	3.06E-02
+negative regulation of protein kinase activity (GO:0006469)	241	121	81.41	+	1.49	4.97E-04	1.70E-02
+negative regulation of kinase activity (GO:0033673)	264	132	89.18	+	1.48	2.93E-04	1.06E-02
+RNA catabolic process (GO:0006401)	248	124	83.77	+	1.48	4.73E-04	1.63E-02
+cell-cell signaling by wnt (GO:0198738)	350	175	118.23	+	1.48	3.03E-05	1.48E-03
+Wnt signaling pathway (GO:0016055)	350	175	118.23	+	1.48	3.03E-05	1.48E-03
+cell cycle process (GO:0022402)	957	478	323.28	+	1.48	2.35E-12	2.95E-10
+DNA metabolic process (GO:0006259)	777	388	262.47	+	1.48	3.20E-10	3.10E-08
+peptidyl-amino acid modification (GO:0018193)	886	442	299.29	+	1.48	1.82E-11	2.13E-09
+negative regulation of protein phosphorylation (GO:0001933)	353	176	119.24	+	1.48	3.24E-05	1.56E-03
+cellular response to stress (GO:0033554)	1741	868	588.11	+	1.48	5.16E-22	1.57E-19
+mitochondrial transport (GO:0006839)	235	117	79.38	+	1.47	8.24E-04	2.62E-02
+negative regulation of Wnt signaling pathway (GO:0030178)	219	109	73.98	+	1.47	1.09E-03	3.32E-02
+peptidyl-serine modification (GO:0018209)	209	104	70.60	+	1.47	1.63E-03	4.66E-02
+macromolecule catabolic process (GO:0009057)	1058	525	357.39	+	1.47	3.82E-13	5.30E-11
+negative regulation of phosphorylation (GO:0042326)	395	196	133.43	+	1.47	1.55E-05	8.11E-04
+negative regulation of cellular macromolecule biosynthetic process (GO:2000113)	1540	763	520.21	+	1.47	9.09E-19	2.14E-16
+RNA localization (GO:0006403)	212	105	71.61	+	1.47	1.75E-03	4.92E-02
+regulation of cellular amide metabolic process (GO:0034248)	479	237	161.81	+	1.46	1.90E-06	1.19E-04
+apoptotic signaling pathway (GO:0097190)	281	139	94.92	+	1.46	2.83E-04	1.03E-02
+negative regulation of transcription by RNA polymerase II (GO:0000122)	906	448	306.05	+	1.46	3.46E-11	3.94E-09
+transcription, DNA-templated (GO:0006351)	530	262	179.03	+	1.46	5.90E-07	4.04E-05
+negative regulation of macromolecule biosynthetic process (GO:0010558)	1551	766	523.93	+	1.46	1.42E-18	3.29E-16
+regulation of cellular protein localization (GO:1903827)	561	277	189.51	+	1.46	2.74E-07	1.97E-05
+negative regulation of transferase activity (GO:0051348)	306	151	103.37	+	1.46	1.73E-04	6.68E-03
+nucleic acid-templated transcription (GO:0097659)	531	262	179.37	+	1.46	6.08E-07	4.14E-05
+regulation of chromosome organization (GO:0033044)	290	143	97.96	+	1.46	2.79E-04	1.02E-02
+chromosome segregation (GO:0007059)	286	141	96.61	+	1.46	3.14E-04	1.13E-02
+negative regulation of protein modification process (GO:0031400)	558	275	188.49	+	1.46	3.83E-07	2.69E-05
+protein modification by small protein conjugation or removal (GO:0070647)	1035	510	349.62	+	1.46	2.33E-12	2.94E-10
+glycerolipid biosynthetic process (GO:0045017)	272	134	91.88	+	1.46	4.33E-04	1.52E-02
+nuclear transport (GO:0051169)	264	130	89.18	+	1.46	5.50E-04	1.85E-02
+cell cycle (GO:0007049)	1316	648	444.55	+	1.46	1.54E-15	2.84E-13
+small GTPase mediated signal transduction (GO:0007264)	262	129	88.50	+	1.46	5.31E-04	1.80E-02
+methylation (GO:0032259)	313	154	105.73	+	1.46	1.64E-04	6.34E-03
+negative regulation of cellular biosynthetic process (GO:0031327)	1610	792	543.86	+	1.46	7.00E-19	1.70E-16
+negative regulation of nucleic acid-templated transcription (GO:1903507)	1299	639	438.80	+	1.46	3.10E-15	5.50E-13
+negative regulation of transcription, DNA-templated (GO:0045892)	1297	638	438.13	+	1.46	2.99E-15	5.42E-13
+regulation of intracellular transport (GO:0032386)	364	179	122.96	+	1.46	5.07E-05	2.32E-03
+regulation of translation (GO:0006417)	415	204	140.19	+	1.46	1.58E-05	8.21E-04
+protein modification by small protein conjugation (GO:0032446)	822	404	277.67	+	1.45	6.76E-10	6.36E-08
+negative regulation of RNA metabolic process (GO:0051253)	1408	692	475.62	+	1.45	1.89E-16	3.84E-14
+response to starvation (GO:0042594)	232	114	78.37	+	1.45	1.19E-03	3.55E-02
+negative regulation of RNA biosynthetic process (GO:1902679)	1301	639	439.48	+	1.45	3.97E-15	6.97E-13
+nucleocytoplasmic transport (GO:0006913)	261	128	88.17	+	1.45	6.38E-04	2.10E-02
+DNA conformation change (GO:0071103)	312	153	105.39	+	1.45	1.96E-04	7.43E-03
+response to decreased oxygen levels (GO:0036293)	361	177	121.95	+	1.45	5.87E-05	2.59E-03
+positive regulation of cellular protein localization (GO:1903829)	306	150	103.37	+	1.45	2.60E-04	9.58E-03
+negative regulation of nucleobase-containing compound metabolic process (GO:0045934)	1528	749	516.16	+	1.45	1.39E-17	3.09E-15
+negative regulation of biosynthetic process (GO:0009890)	1643	805	555.01	+	1.45	7.22E-19	1.73E-16
+Golgi vesicle transport (GO:0048193)	398	195	134.44	+	1.45	2.51E-05	1.25E-03
+posttranscriptional regulation of gene expression (GO:0010608)	581	284	196.26	+	1.45	4.11E-07	2.86E-05
+regulation of Wnt signaling pathway (GO:0030111)	377	184	127.35	+	1.44	5.42E-05	2.44E-03
+RNA biosynthetic process (GO:0032774)	543	265	183.43	+	1.44	1.16E-06	7.43E-05
+intracellular protein transport (GO:0006886)	781	381	263.82	+	1.44	4.09E-09	3.68E-07
+organophosphate biosynthetic process (GO:0090407)	552	269	186.47	+	1.44	9.37E-07	6.20E-05
+nucleobase-containing compound biosynthetic process (GO:0034654)	975	475	329.36	+	1.44	5.01E-11	5.54E-09
+response to oxygen levels (GO:0070482)	388	189	131.07	+	1.44	4.55E-05	2.09E-03
+regulation of cellular response to stress (GO:0080135)	692	337	233.76	+	1.44	3.83E-08	3.03E-06
+RNA splicing (GO:0008380)	409	199	138.16	+	1.44	3.11E-05	1.51E-03
+protein-containing complex localization (GO:0031503)	259	126	87.49	+	1.44	9.18E-04	2.88E-02
+negative regulation of organelle organization (GO:0010639)	334	162	112.83	+	1.44	2.05E-04	7.73E-03
+establishment of protein localization to organelle (GO:0072594)	394	191	133.09	+	1.44	5.12E-05	2.33E-03
+transcription by RNA polymerase II (GO:0006366)	382	185	129.04	+	1.43	7.30E-05	3.10E-03
+response to hypoxia (GO:0001666)	347	168	117.22	+	1.43	1.48E-04	5.82E-03
+protein ubiquitination (GO:0016567)	746	361	252.00	+	1.43	2.22E-08	1.88E-06
+nuclear division (GO:0000280)	339	164	114.51	+	1.43	1.87E-04	7.11E-03
+protein localization to organelle (GO:0033365)	742	358	250.65	+	1.43	3.06E-08	2.51E-06
+mRNA metabolic process (GO:0016071)	697	336	235.45	+	1.43	9.19E-08	6.95E-06
+nucleic acid metabolic process (GO:0090304)	2217	1068	748.90	+	1.43	2.40E-23	8.63E-21
+cellular component disassembly (GO:0022411)	409	197	138.16	+	1.43	5.60E-05	2.51E-03
+heterocycle biosynthetic process (GO:0018130)	1049	505	354.35	+	1.43	4.16E-11	4.67E-09
+regulation of protein stability (GO:0031647)	306	147	103.37	+	1.42	5.73E-04	1.92E-02
+regulation of organelle organization (GO:0033043)	1208	580	408.06	+	1.42	1.74E-12	2.24E-10
+organelle localization (GO:0051640)	609	292	205.72	+	1.42	1.03E-06	6.71E-05
+mRNA processing (GO:0006397)	486	233	164.17	+	1.42	1.31E-05	6.97E-04
+negative regulation of intracellular signal transduction (GO:1902532)	507	243	171.26	+	1.42	8.90E-06	5.01E-04
+vesicle organization (GO:0016050)	313	150	105.73	+	1.42	5.38E-04	1.82E-02
+protein targeting (GO:0006605)	322	154	108.77	+	1.42	4.36E-04	1.52E-02
+intracellular transport (GO:0046907)	1464	700	494.54	+	1.42	1.12E-14	1.83E-12
+regulation of cell morphogenesis (GO:0022604)	310	148	104.72	+	1.41	6.19E-04	2.04E-02
+glycerophospholipid metabolic process (GO:0006650)	331	158	111.81	+	1.41	4.21E-04	1.48E-02
+negative regulation of phosphorus metabolic process (GO:0010563)	484	230	163.50	+	1.41	2.23E-05	1.12E-03
+organelle fission (GO:0048285)	369	175	124.65	+	1.40	2.66E-04	9.77E-03
+negative regulation of phosphate metabolic process (GO:0045936)	483	229	163.16	+	1.40	2.64E-05	1.31E-03
+response to radiation (GO:0009314)	452	214	152.69	+	1.40	5.65E-05	2.52E-03
+protein-DNA complex subunit organization (GO:0071824)	296	140	99.99	+	1.40	1.24E-03	3.69E-02
+mitochondrion organization (GO:0007005)	468	221	158.09	+	1.40	5.11E-05	2.33E-03
+aromatic compound biosynthetic process (GO:0019438)	1060	500	358.07	+	1.40	5.84E-10	5.59E-08
+response to light stimulus (GO:0009416)	316	149	106.74	+	1.40	9.97E-04	3.08E-02
+gland development (GO:0048732)	414	195	139.85	+	1.39	1.56E-04	6.10E-03
+cellular macromolecule localization (GO:0070727)	1480	697	499.94	+	1.39	1.43E-13	2.08E-11
+in utero embryonic development (GO:0001701)	366	172	123.63	+	1.39	4.39E-04	1.53E-02
+establishment of protein localization (GO:0045184)	1397	656	471.91	+	1.39	1.32E-12	1.73E-10
+cellular protein localization (GO:0034613)	1470	690	496.57	+	1.39	3.12E-13	4.36E-11
+nucleobase-containing compound metabolic process (GO:0006139)	2705	1269	913.75	+	1.39	1.02E-24	4.47E-22
+protein transport (GO:0015031)	1300	609	439.14	+	1.39	1.39E-11	1.64E-09
+regulation of growth (GO:0040008)	661	309	223.29	+	1.38	2.46E-06	1.52E-04
+microtubule cytoskeleton organization (GO:0000226)	567	265	191.53	+	1.38	1.40E-05	7.39E-04
+negative regulation of nitrogen compound metabolic process (GO:0051172)	2453	1146	828.62	+	1.38	1.33E-21	3.82E-19
+activation of protein kinase activity (GO:0032147)	328	153	110.80	+	1.38	1.21E-03	3.61E-02
+establishment of protein localization to membrane (GO:0090150)	313	146	105.73	+	1.38	1.38E-03	4.04E-02
+phosphorylation (GO:0016310)	877	409	296.25	+	1.38	6.59E-08	5.13E-06
+RNA processing (GO:0006396)	930	433	314.15	+	1.38	2.97E-08	2.45E-06
+positive regulation of RNA metabolic process (GO:0051254)	1773	825	598.92	+	1.38	4.33E-15	7.45E-13
+RNA metabolic process (GO:0016070)	1582	736	534.40	+	1.38	1.86E-13	2.67E-11
+regulation of neuron death (GO:1901214)	316	147	106.74	+	1.38	1.45E-03	4.19E-02
+phospholipid metabolic process (GO:0006644)	398	185	134.44	+	1.38	3.58E-04	1.28E-02
+establishment of organelle localization (GO:0051656)	398	185	134.44	+	1.38	3.58E-04	1.28E-02
+positive regulation of organelle organization (GO:0010638)	605	281	204.37	+	1.37	1.04E-05	5.78E-04
+regulation of protein localization (GO:0032880)	894	415	301.99	+	1.37	7.17E-08	5.55E-06
+positive regulation of nucleobase-containing compound metabolic process (GO:0045935)	1941	901	655.67	+	1.37	2.89E-16	5.72E-14
+viral process (GO:0016032)	444	206	149.98	+	1.37	2.09E-04	7.84E-03
+regulation of cytoskeleton organization (GO:0051493)	526	244	177.68	+	1.37	4.39E-05	2.05E-03
+ribonucleoprotein complex biogenesis (GO:0022613)	462	214	156.06	+	1.37	1.62E-04	6.27E-03
+protein phosphorylation (GO:0006468)	685	317	231.39	+	1.37	3.53E-06	2.12E-04
+negative regulation of cellular metabolic process (GO:0031324)	2613	1209	882.67	+	1.37	9.03E-22	2.64E-19
+positive regulation of protein transport (GO:0051222)	331	153	111.81	+	1.37	1.51E-03	4.37E-02
+ribosome biogenesis (GO:0042254)	329	152	111.14	+	1.37	1.75E-03	4.92E-02
+protein localization (GO:0008104)	2063	952	696.88	+	1.37	1.24E-16	2.61E-14
+positive regulation of nucleic acid-templated transcription (GO:1903508)	1628	750	549.94	+	1.36	5.07E-13	6.97E-11
+positive regulation of transcription, DNA-templated (GO:0045893)	1628	750	549.94	+	1.36	5.07E-13	6.91E-11
+positive regulation of nitrogen compound metabolic process (GO:0051173)	3123	1438	1054.95	+	1.36	1.20E-25	5.95E-23
+positive regulation of RNA biosynthetic process (GO:1902680)	1629	750	550.28	+	1.36	6.11E-13	8.25E-11
+cellular response to peptide (GO:1901653)	339	156	114.51	+	1.36	1.70E-03	4.81E-02
+post-translational protein modification (GO:0043687)	361	166	121.95	+	1.36	1.17E-03	3.51E-02
+regulation of transferase activity (GO:0051338)	1033	475	348.95	+	1.36	1.93E-08	1.64E-06
+negative regulation of signal transduction (GO:0009968)	1305	600	440.83	+	1.36	2.11E-10	2.14E-08
+organic cyclic compound biosynthetic process (GO:1901362)	1196	549	404.01	+	1.36	1.76E-09	1.63E-07
+ncRNA processing (GO:0034470)	436	200	147.28	+	1.36	3.70E-04	1.31E-02
+regulation of cellular component organization (GO:0051128)	2390	1095	807.34	+	1.36	1.66E-18	3.81E-16
+heterocycle metabolic process (GO:0046483)	2891	1324	976.58	+	1.36	1.08E-22	3.49E-20
+cellular nitrogen compound biosynthetic process (GO:0044271)	1553	711	524.60	+	1.36	5.98E-12	7.21E-10
+regulation of protein modification process (GO:0031399)	1654	757	558.72	+	1.35	1.20E-12	1.59E-10
+cellular macromolecule biosynthetic process (GO:0034645)	1639	750	553.65	+	1.35	1.41E-12	1.82E-10
+regulation of cell growth (GO:0001558)	422	193	142.55	+	1.35	5.97E-04	1.98E-02
+positive regulation of macromolecule biosynthetic process (GO:0010557)	1863	852	629.32	+	1.35	3.59E-14	5.73E-12
+cellular macromolecule metabolic process (GO:0044260)	4909	2245	1658.26	+	1.35	1.75E-42	2.52E-39
+regulation of protein-containing complex assembly (GO:0043254)	455	208	153.70	+	1.35	3.43E-04	1.23E-02
+cell surface receptor signaling pathway involved in cell-cell signaling (GO:1905114)	420	192	141.88	+	1.35	5.81E-04	1.94E-02
+organelle organization (GO:0006996)	3567	1630	1204.93	+	1.35	1.91E-28	1.31E-25
+cellular protein modification process (GO:0006464)	2985	1364	1008.33	+	1.35	3.83E-23	1.35E-20
+protein modification process (GO:0036211)	2985	1364	1008.33	+	1.35	3.83E-23	1.32E-20
+regulation of protein transport (GO:0051223)	556	254	187.82	+	1.35	7.88E-05	3.33E-03
+positive regulation of protein metabolic process (GO:0051247)	1562	713	527.64	+	1.35	8.03E-12	9.61E-10
+positive regulation of transcription by RNA polymerase II (GO:0045944)	1212	553	409.41	+	1.35	3.04E-09	2.78E-07
+positive regulation of cellular metabolic process (GO:0031325)	3314	1511	1119.47	+	1.35	1.14E-25	5.84E-23
+transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)	522	238	176.33	+	1.35	1.36E-04	5.36E-03
+cellular protein metabolic process (GO:0044267)	3590	1636	1212.70	+	1.35	4.44E-28	2.81E-25
+negative regulation of signaling (GO:0023057)	1405	640	474.61	+	1.35	1.70E-10	1.74E-08
+regulation of supramolecular fiber organization (GO:1902903)	382	174	129.04	+	1.35	1.13E-03	3.41E-02
+regulation of cellular localization (GO:0060341)	841	383	284.09	+	1.35	1.20E-06	7.68E-05
+negative regulation of cell communication (GO:0010648)	1401	638	473.26	+	1.35	1.91E-10	1.95E-08
+macromolecule biosynthetic process (GO:0009059)	1680	765	567.50	+	1.35	1.99E-12	2.54E-10
+MAPK cascade (GO:0000165)	402	183	135.80	+	1.35	8.90E-04	2.80E-02
+negative regulation of cellular component organization (GO:0051129)	724	329	244.57	+	1.35	8.35E-06	4.73E-04
+regulation of establishment of protein localization (GO:0070201)	581	264	196.26	+	1.35	6.70E-05	2.89E-03
+macromolecule modification (GO:0043412)	3211	1459	1084.68	+	1.35	3.45E-24	1.33E-21
+cellular aromatic compound metabolic process (GO:0006725)	2937	1334	992.12	+	1.34	8.24E-22	2.46E-19
+regulation of protein kinase activity (GO:0045859)	802	364	270.92	+	1.34	2.72E-06	1.65E-04
+positive regulation of cellular biosynthetic process (GO:0031328)	1969	892	665.13	+	1.34	4.09E-14	6.40E-12
+ncRNA metabolic process (GO:0034660)	521	236	175.99	+	1.34	2.18E-04	8.14E-03
+negative regulation of macromolecule metabolic process (GO:0010605)	2880	1303	972.87	+	1.34	8.82E-21	2.40E-18
+regulation of protein serine/threonine kinase activity (GO:0071900)	493	223	166.54	+	1.34	3.44E-04	1.23E-02
+enzyme linked receptor protein signaling pathway (GO:0007167)	723	327	244.23	+	1.34	1.14E-05	6.27E-04
+apoptotic process (GO:0006915)	913	412	308.41	+	1.34	9.50E-07	6.26E-05
+positive regulation of cellular protein metabolic process (GO:0032270)	1474	665	497.92	+	1.34	2.41E-10	2.42E-08
+regulation of kinase activity (GO:0043549)	914	412	308.75	+	1.33	9.65E-07	6.33E-05
+regulation of cell projection organization (GO:0031344)	648	292	218.89	+	1.33	4.28E-05	2.01E-03
+negative regulation of gene expression (GO:0010629)	999	450	337.46	+	1.33	3.34E-07	2.37E-05
+microtubule-based process (GO:0007017)	806	363	272.27	+	1.33	5.40E-06	3.16E-04
+chordate embryonic development (GO:0043009)	613	276	207.07	+	1.33	7.27E-05	3.10E-03
+positive regulation of biosynthetic process (GO:0009891)	2004	902	676.95	+	1.33	1.01E-13	1.51E-11
+organonitrogen compound catabolic process (GO:1901565)	1091	491	368.54	+	1.33	9.14E-08	6.95E-06
+positive regulation of apoptotic process (GO:0043065)	560	252	189.17	+	1.33	1.59E-04	6.22E-03
+cellular nitrogen compound metabolic process (GO:0034641)	3395	1526	1146.83	+	1.33	6.65E-24	2.50E-21
+positive regulation of protein modification process (GO:0031401)	1079	483	364.49	+	1.33	2.04E-07	1.51E-05
+regulation of neuron projection development (GO:0010975)	447	200	151.00	+	1.32	9.71E-04	3.03E-02
+macromolecule localization (GO:0033036)	2496	1116	843.15	+	1.32	1.88E-16	3.87E-14
+regulation of small molecule metabolic process (GO:0062012)	421	188	142.21	+	1.32	1.56E-03	4.47E-02
+negative regulation of metabolic process (GO:0009892)	3095	1382	1045.49	+	1.32	1.67E-20	4.48E-18
+regulation of protein metabolic process (GO:0051246)	2665	1189	900.24	+	1.32	2.48E-17	5.44E-15
+positive regulation of macromolecule metabolic process (GO:0010604)	3522	1571	1189.73	+	1.32	1.50E-23	5.52E-21
+cellular catabolic process (GO:0044248)	1812	808	612.09	+	1.32	1.10E-11	1.30E-09
+regulation of cellular component biogenesis (GO:0044087)	974	434	329.02	+	1.32	1.40E-06	8.85E-05
+embryo development ending in birth or egg hatching (GO:0009792)	633	282	213.83	+	1.32	1.07E-04	4.40E-03
+protein-containing complex subunit organization (GO:0043933)	1605	715	542.17	+	1.32	2.51E-10	2.48E-08
+regulation of plasma membrane bounded cell projection organization (GO:0120035)	631	281	213.15	+	1.32	1.22E-04	4.87E-03
+positive regulation of programmed cell death (GO:0043068)	575	256	194.24	+	1.32	2.58E-04	9.53E-03
+positive regulation of cell death (GO:0010942)	638	284	215.52	+	1.32	1.13E-04	4.59E-03
+regulation of cellular protein metabolic process (GO:0032268)	2501	1112	844.84	+	1.32	8.68E-16	1.63E-13
+establishment of localization in cell (GO:0051649)	2335	1038	788.76	+	1.32	1.05E-14	1.73E-12
+positive regulation of transferase activity (GO:0051347)	693	308	234.10	+	1.32	6.13E-05	2.67E-03
+negative regulation of protein metabolic process (GO:0051248)	1112	494	375.63	+	1.32	2.94E-07	2.10E-05
+negative regulation of cellular protein metabolic process (GO:0032269)	1040	462	351.31	+	1.32	7.26E-07	4.89E-05
+nitrogen compound transport (GO:0071705)	1708	758	576.96	+	1.31	1.15E-10	1.23E-08
+organic cyclic compound metabolic process (GO:1901360)	3182	1412	1074.88	+	1.31	3.46E-20	9.11E-18
+positive regulation of cellular component organization (GO:0051130)	1161	515	392.19	+	1.31	1.72E-07	1.27E-05
+intracellular signal transduction (GO:0035556)	1677	743	566.49	+	1.31	2.46E-10	2.46E-08
+embryo development (GO:0009790)	991	439	334.76	+	1.31	1.95E-06	1.22E-04
+response to growth factor (GO:0070848)	526	233	177.68	+	1.31	5.92E-04	1.97E-02
+positive regulation of metabolic process (GO:0009893)	3820	1691	1290.40	+	1.31	1.82E-24	7.59E-22
+cellular response to growth factor stimulus (GO:0071363)	497	220	167.89	+	1.31	9.18E-04	2.88E-02
+phosphorus metabolic process (GO:0006793)	1835	811	619.86	+	1.31	4.16E-11	4.70E-09
+phosphate-containing compound metabolic process (GO:0006796)	1808	799	610.74	+	1.31	5.89E-11	6.38E-09
+positive regulation of protein kinase activity (GO:0045860)	539	238	182.07	+	1.31	5.86E-04	1.95E-02
+cellular biosynthetic process (GO:0044249)	2715	1198	917.13	+	1.31	2.51E-16	5.01E-14
+cellular localization (GO:0051641)	2985	1317	1008.33	+	1.31	4.51E-18	1.02E-15
+neutrophil mediated immunity (GO:0002446)	497	219	167.89	+	1.30	1.07E-03	3.26E-02
+response to peptide (GO:1901652)	488	215	164.85	+	1.30	1.31E-03	3.86E-02
+regulation of nucleobase-containing compound metabolic process (GO:0019219)	4049	1783	1367.75	+	1.30	3.41E-25	1.54E-22
+regulation of cellular macromolecule biosynthetic process (GO:2000112)	3968	1746	1340.39	+	1.30	1.83E-24	7.42E-22
+neutrophil degranulation (GO:0043312)	482	212	162.82	+	1.30	1.43E-03	4.14E-02
+regulation of macromolecule biosynthetic process (GO:0010556)	3999	1757	1350.86	+	1.30	2.05E-24	8.09E-22
+regulation of phosphorylation (GO:0042325)	1391	611	469.88	+	1.30	3.11E-08	2.53E-06
+regulation of cellular biosynthetic process (GO:0031326)	4163	1828	1406.26	+	1.30	1.69E-25	8.08E-23
+regulation of protein phosphorylation (GO:0001932)	1218	534	411.44	+	1.30	3.52E-07	2.48E-05
+regulation of RNA metabolic process (GO:0051252)	3782	1656	1277.56	+	1.30	3.03E-22	9.38E-20
+vasculature development (GO:0001944)	514	225	173.63	+	1.30	1.27E-03	3.76E-02
+regulation of biosynthetic process (GO:0009889)	4226	1849	1427.54	+	1.30	2.94E-25	1.37E-22
+biosynthetic process (GO:0009058)	2865	1253	967.80	+	1.29	3.95E-16	7.71E-14
+cytoskeleton organization (GO:0007010)	1212	530	409.41	+	1.29	4.47E-07	3.10E-05
+organic substance biosynthetic process (GO:1901576)	2803	1224	946.85	+	1.29	1.26E-15	2.35E-13
+protein-containing complex assembly (GO:0065003)	1358	593	458.73	+	1.29	9.78E-08	7.36E-06
+regulation of nucleic acid-templated transcription (GO:1903506)	3475	1514	1173.86	+	1.29	1.98E-19	5.05E-17
+regulation of transcription, DNA-templated (GO:0006355)	3474	1513	1173.52	+	1.29	2.30E-19	5.78E-17
+regulation of RNA biosynthetic process (GO:2001141)	3480	1514	1175.55	+	1.29	3.32E-19	8.21E-17
+macromolecule metabolic process (GO:0043170)	6151	2674	2077.81	+	1.29	2.84E-39	3.45E-36
+regulation of nitrogen compound metabolic process (GO:0051171)	5740	2494	1938.97	+	1.29	1.94E-35	1.80E-32
+regulation of cellular metabolic process (GO:0031323)	6138	2663	2073.42	+	1.28	1.76E-38	1.99E-35
+regulation of primary metabolic process (GO:0080090)	5925	2569	2001.47	+	1.28	2.09E-36	2.06E-33
+cellular metabolic process (GO:0044237)	7542	3266	2547.69	+	1.28	7.56E-52	2.99E-48
+regulation of intracellular signal transduction (GO:1902531)	1839	796	621.22	+	1.28	1.51E-09	1.41E-07
+regulation of transcription by RNA polymerase II (GO:0006357)	2595	1123	876.59	+	1.28	1.91E-13	2.72E-11
+protein metabolic process (GO:0019538)	4203	1818	1419.78	+	1.28	7.22E-23	2.38E-20
+cellular protein-containing complex assembly (GO:0034622)	867	375	292.87	+	1.28	5.94E-05	2.60E-03
+localization within membrane (GO:0051668)	615	266	207.75	+	1.28	7.97E-04	2.55E-02
+regulation of phosphate metabolic process (GO:0019220)	1578	682	533.05	+	1.28	3.48E-08	2.80E-06
+regulation of phosphorus metabolic process (GO:0051174)	1578	682	533.05	+	1.28	3.48E-08	2.78E-06
+nitrogen compound metabolic process (GO:0006807)	6886	2975	2326.09	+	1.28	4.76E-44	7.52E-41
+organic substance catabolic process (GO:1901575)	1769	764	597.57	+	1.28	4.57E-09	4.01E-07
+catabolic process (GO:0009056)	2096	905	708.03	+	1.28	1.20E-10	1.27E-08
+embryonic morphogenesis (GO:0048598)	570	246	192.55	+	1.28	1.40E-03	4.08E-02
+cellular component biogenesis (GO:0044085)	2754	1188	930.30	+	1.28	6.66E-14	1.01E-11
+gene expression (GO:0010467)	2117	912	715.12	+	1.28	1.43E-10	1.49E-08
+response to abiotic stimulus (GO:0009628)	1175	506	396.92	+	1.27	3.49E-06	2.10E-04
+primary metabolic process (GO:0044238)	7352	3164	2483.51	+	1.27	3.68E-47	8.30E-44
+response to organonitrogen compound (GO:0010243)	1014	436	342.53	+	1.27	2.06E-05	1.04E-03
+negative regulation of programmed cell death (GO:0043069)	914	393	308.75	+	1.27	5.90E-05	2.59E-03
+positive regulation of kinase activity (GO:0033674)	614	264	207.41	+	1.27	1.04E-03	3.18E-02
+negative regulation of cellular process (GO:0048523)	4902	2107	1655.90	+	1.27	2.97E-26	1.74E-23
+proteolysis (GO:0006508)	1306	561	441.17	+	1.27	1.17E-06	7.52E-05
+cellular component assembly (GO:0022607)	2494	1071	842.47	+	1.27	3.70E-12	4.53E-10
+negative regulation of cell death (GO:0060548)	1008	432	340.50	+	1.27	2.93E-05	1.44E-03
+organelle assembly (GO:0070925)	796	340	268.89	+	1.26	2.83E-04	1.03E-02
+negative regulation of apoptotic process (GO:0043066)	895	382	302.33	+	1.26	1.12E-04	4.58E-03
+tube development (GO:0035295)	856	365	289.16	+	1.26	1.81E-04	6.94E-03
+regulation of programmed cell death (GO:0043067)	1532	653	517.51	+	1.26	3.20E-07	2.28E-05
+organophosphate metabolic process (GO:0019637)	894	381	301.99	+	1.26	1.27E-04	5.05E-03
+lipid biosynthetic process (GO:0008610)	630	268	212.81	+	1.26	1.55E-03	4.45E-02
+tube morphogenesis (GO:0035239)	654	277	220.92	+	1.25	1.63E-03	4.66E-02
+head development (GO:0060322)	803	340	271.25	+	1.25	4.40E-04	1.53E-02
+regulation of apoptotic process (GO:0042981)	1493	632	504.34	+	1.25	1.15E-06	7.39E-05
+regulation of cell death (GO:0010941)	1668	706	563.45	+	1.25	2.35E-07	1.71E-05
+brain development (GO:0007420)	759	321	256.39	+	1.25	6.82E-04	2.21E-02
+organic substance transport (GO:0071702)	2079	879	702.29	+	1.25	5.60E-09	4.86E-07
+positive regulation of catalytic activity (GO:0043085)	1240	524	418.87	+	1.25	1.26E-05	6.77E-04
+regulation of macromolecule metabolic process (GO:0060255)	6340	2677	2141.65	+	1.25	1.04E-31	8.20E-29
+regulation of anatomical structure morphogenesis (GO:0022603)	967	408	326.65	+	1.25	1.49E-04	5.85E-03
+regulation of metabolic process (GO:0019222)	6874	2896	2322.04	+	1.25	5.87E-35	5.16E-32
+positive regulation of protein phosphorylation (GO:0001934)	838	353	283.08	+	1.25	4.42E-04	1.53E-02
+programmed cell death (GO:0012501)	1050	442	354.69	+	1.25	8.67E-05	3.63E-03
+positive regulation of molecular function (GO:0044093)	1618	681	546.56	+	1.25	7.65E-07	5.13E-05
+cell death (GO:0008219)	1086	457	366.85	+	1.25	6.76E-05	2.91E-03
+organic substance metabolic process (GO:0071704)	7840	3297	2648.36	+	1.24	2.85E-42	3.75E-39
+positive regulation of cellular process (GO:0048522)	5741	2414	1939.31	+	1.24	1.35E-26	8.21E-24
+cellular component organization or biogenesis (GO:0071840)	6006	2525	2028.83	+	1.24	3.08E-28	2.03E-25
+regulation of signal transduction (GO:0009966)	3128	1315	1056.64	+	1.24	7.43E-13	9.96E-11
+cellular response to endogenous stimulus (GO:0071495)	1152	484	389.15	+	1.24	4.47E-05	2.08E-03
+regulation of developmental process (GO:0050793)	2461	1033	831.33	+	1.24	5.89E-10	5.61E-08
+organonitrogen compound metabolic process (GO:1901564)	5246	2201	1772.10	+	1.24	4.46E-23	1.50E-20
+cellular component organization (GO:0016043)	5783	2423	1953.50	+	1.24	6.05E-26	3.19E-23
+metabolic process (GO:0008152)	8313	3483	2808.14	+	1.24	4.49E-45	7.89E-42
+response to hormone (GO:0009725)	819	343	276.66	+	1.24	8.10E-04	2.59E-02
+response to nitrogen compound (GO:1901698)	1101	461	371.92	+	1.24	8.47E-05	3.56E-03
+regulation of cell differentiation (GO:0045595)	1586	663	535.75	+	1.24	2.14E-06	1.33E-04
+regulation of cell communication (GO:0010646)	3509	1464	1185.34	+	1.24	1.21E-13	1.79E-11
+regulation of signaling (GO:0023051)	3545	1477	1197.50	+	1.23	1.31E-13	1.91E-11
+response to endogenous stimulus (GO:0009719)	1426	594	481.70	+	1.23	1.12E-05	6.16E-04
+regulation of gene expression (GO:0010468)	4922	2050	1662.65	+	1.23	6.80E-20	1.76E-17
+positive regulation of phosphorylation (GO:0042327)	921	383	311.11	+	1.23	5.34E-04	1.81E-02
+regulation of catalytic activity (GO:0050790)	2433	1011	821.87	+	1.23	5.43E-09	4.74E-07
+negative regulation of developmental process (GO:0051093)	879	365	296.93	+	1.23	8.32E-04	2.65E-02
+circulatory system development (GO:0072359)	877	363	296.25	+	1.23	1.04E-03	3.18E-02
+negative regulation of biological process (GO:0048519)	5501	2276	1858.24	+	1.22	1.60E-21	4.44E-19
+organonitrogen compound biosynthetic process (GO:1901566)	1379	569	465.83	+	1.22	3.89E-05	1.85E-03
+positive regulation of transport (GO:0051050)	947	389	319.90	+	1.22	9.88E-04	3.07E-02
+regulation of molecular function (GO:0065009)	3118	1279	1053.26	+	1.21	2.81E-10	2.76E-08
+positive regulation of signal transduction (GO:0009967)	1584	648	535.08	+	1.21	2.43E-05	1.21E-03
+positive regulation of biological process (GO:0048518)	6331	2582	2138.61	+	1.21	1.93E-22	6.09E-20
+cell projection organization (GO:0030030)	1221	497	412.45	+	1.20	3.73E-04	1.32E-02
+central nervous system development (GO:0007417)	1000	407	337.80	+	1.20	1.31E-03	3.85E-02
+regulation of localization (GO:0032879)	2753	1120	929.96	+	1.20	2.28E-08	1.91E-06
+membrane organization (GO:0061024)	972	395	328.34	+	1.20	1.74E-03	4.92E-02
+vesicle-mediated transport (GO:0016192)	1969	796	665.13	+	1.20	8.35E-06	4.71E-04
+plasma membrane bounded cell projection organization (GO:0120036)	1175	474	396.92	+	1.19	8.59E-04	2.71E-02
+positive regulation of developmental process (GO:0051094)	1271	511	429.34	+	1.19	7.12E-04	2.31E-02
+regulation of multicellular organismal development (GO:2000026)	1332	535	449.95	+	1.19	5.60E-04	1.88E-02
+positive regulation of signaling (GO:0023056)	1761	707	594.87	+	1.19	6.11E-05	2.67E-03
+regulation of transport (GO:0051049)	1772	711	598.58	+	1.19	5.79E-05	2.56E-03
+positive regulation of cell communication (GO:0010647)	1755	701	592.84	+	1.18	9.84E-05	4.08E-03
+response to organic substance (GO:0010033)	3008	1200	1016.10	+	1.18	1.56E-07	1.17E-05
+negative regulation of response to stimulus (GO:0048585)	1831	730	618.51	+	1.18	8.92E-05	3.72E-03
+nervous system development (GO:0007399)	2218	881	749.24	+	1.18	1.86E-05	9.57E-04
+cellular response to organic substance (GO:0071310)	2344	930	791.80	+	1.17	1.22E-05	6.61E-04
+anatomical structure morphogenesis (GO:0009653)	2158	856	728.97	+	1.17	2.95E-05	1.45E-03
+response to oxygen-containing compound (GO:1901700)	1604	632	541.83	+	1.17	7.29E-04	2.35E-02
+regulation of cell population proliferation (GO:0042127)	1654	648	558.72	+	1.16	9.38E-04	2.94E-02
+small molecule metabolic process (GO:0044281)	1622	634	547.91	+	1.16	1.31E-03	3.86E-02
+establishment of localization (GO:0051234)	4631	1806	1564.35	+	1.15	4.40E-09	3.88E-07
+localization (GO:0051179)	5831	2266	1969.71	+	1.15	2.09E-11	2.42E-09
+transport (GO:0006810)	4476	1730	1511.99	+	1.14	8.19E-08	6.25E-06
+regulation of biological quality (GO:0065008)	3995	1537	1349.51	+	1.14	1.49E-06	9.36E-05
+regulation of response to stimulus (GO:0048583)	4306	1656	1454.57	+	1.14	4.76E-07	3.29E-05
+response to stress (GO:0006950)	3626	1394	1224.86	+	1.14	6.50E-06	3.78E-04
+regulation of multicellular organismal process (GO:0051239)	2673	1027	902.94	+	1.14	1.82E-04	6.96E-03
+cellular response to chemical stimulus (GO:0070887)	2914	1112	984.35	+	1.13	2.07E-04	7.77E-03
+developmental process (GO:0032502)	5797	2165	1958.23	+	1.11	2.64E-06	1.61E-04
+system development (GO:0048731)	4330	1617	1462.68	+	1.11	1.13E-04	4.59E-03
+regulation of cellular process (GO:0050794)	11351	4221	3834.37	+	1.10	5.42E-16	1.03E-13
+multicellular organism development (GO:0007275)	4941	1836	1669.07	+	1.10	6.52E-05	2.82E-03
+anatomical structure development (GO:0048856)	5330	1970	1800.48	+	1.09	7.50E-05	3.18E-03
+regulation of biological process (GO:0050789)	11898	4392	4019.15	+	1.09	3.09E-15	5.55E-13
+biological regulation (GO:0065007)	12568	4611	4245.48	+	1.09	4.30E-15	7.46E-13
+cellular process (GO:0009987)	15495	5678	5234.22	+	1.08	1.32E-28	9.47E-26
+biological_process (GO:0008150)	17851	6353	6030.08	+	1.05	4.74E-26	2.68E-23
+response to biotic stimulus (GO:0009607)	1547	438	522.58	-	.84	6.56E-04	2.15E-02
+regulation of immune response (GO:0050776)	1183	328	399.62	-	.82	1.00E-03	3.08E-02
+response to other organism (GO:0051707)	1425	387	481.37	-	.80	7.03E-05	3.01E-03
+response to external biotic stimulus (GO:0043207)	1426	387	481.70	-	.80	6.28E-05	2.73E-03
+immune response (GO:0006955)	2075	546	700.94	-	.78	2.71E-08	2.25E-06
+positive regulation of immune response (GO:0050778)	747	195	252.34	-	.77	1.02E-03	3.13E-02
+defense response (GO:0006952)	1426	362	481.70	-	.75	2.92E-07	2.10E-05
+defense response to other organism (GO:0098542)	1038	253	350.64	-	.72	9.82E-07	6.41E-05
+activation of immune response (GO:0002253)	530	127	179.03	-	.71	3.23E-04	1.16E-02
+immune response-activating cell surface receptor signaling pathway (GO:0002429)	455	109	153.70	-	.71	8.59E-04	2.72E-02
+immune response-activating signal transduction (GO:0002757)	455	109	153.70	-	.71	8.59E-04	2.72E-02
+epidermis development (GO:0008544)	422	100	142.55	-	.70	1.11E-03	3.36E-02
+innate immune response (GO:0045087)	848	199	286.45	-	.69	1.34E-06	8.51E-05
+negative regulation of defense response (GO:0031348)	402	94	135.80	-	.69	9.94E-04	3.08E-02
+regulation of immune effector process (GO:0002697)	435	101	146.94	-	.69	4.33E-04	1.51E-02
+system process (GO:0003008)	2057	474	694.86	-	.68	4.18E-16	8.05E-14
+regulation of inflammatory response (GO:0050727)	518	118	174.98	-	.67	5.70E-05	2.54E-03
+response to bacterium (GO:0009617)	721	162	243.55	-	.67	8.14E-07	5.43E-05
+negative regulation of immune response (GO:0050777)	373	83	126.00	-	.66	3.97E-04	1.40E-02
+Unclassified (UNCLASSIFIED)	2744	604	926.92	-	.65	4.74E-26	2.58E-23
+leukocyte migration (GO:0050900)	379	83	128.03	-	.65	1.90E-04	7.20E-03
+negative regulation of inflammatory response (GO:0050728)	320	64	108.10	-	.59	5.50E-05	2.47E-03
+nervous system process (GO:0050877)	1416	267	478.33	-	.56	1.35E-21	3.81E-19
+epidermal cell differentiation (GO:0009913)	322	59	108.77	-	.54	4.34E-06	2.56E-04
+cell-cell adhesion via plasma-membrane adhesion molecules (GO:0098742)	258	45	87.15	-	.52	1.38E-05	7.29E-04
+adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains (GO:0002460)	269	41	90.87	-	.45	2.34E-07	1.72E-05
+cell killing (GO:0001906)	126	19	42.56	-	.45	5.03E-04	1.72E-02
+homophilic cell adhesion via plasma membrane adhesion molecules (GO:0007156)	167	25	56.41	-	.44	3.89E-05	1.84E-03
+membrane invagination (GO:0010324)	148	22	49.99	-	.44	1.22E-04	4.88E-03
+regulation of inflammatory response to antigenic stimulus (GO:0002861)	222	32	74.99	-	.43	9.20E-07	6.11E-05
+keratinocyte differentiation (GO:0030216)	270	38	91.21	-	.42	2.28E-08	1.91E-06
+phospholipase C-activating G protein-coupled receptor signaling pathway (GO:0007200)	100	14	33.78	-	.41	1.07E-03	3.25E-02
+cell recognition (GO:0008037)	241	33	81.41	-	.41	8.00E-08	6.14E-06
+G protein-coupled receptor signaling pathway (GO:0007186)	1305	178	440.83	-	.40	2.20E-38	2.32E-35
+lymphocyte mediated immunity (GO:0002449)	259	35	87.49	-	.40	1.54E-08	1.32E-06
+defense response to bacterium (GO:0042742)	350	46	118.23	-	.39	1.82E-11	2.12E-09
+negative regulation of inflammatory response to antigenic stimulus (GO:0002862)	208	27	70.26	-	.38	2.14E-07	1.57E-05
+sensory perception (GO:0007600)	979	127	330.71	-	.38	4.92E-31	3.71E-28
+plasma membrane invagination (GO:0099024)	141	18	47.63	-	.38	2.03E-05	1.03E-03
+production of molecular mediator of immune response (GO:0002440)	141	17	47.63	-	.36	8.05E-06	4.63E-04
+neuropeptide signaling pathway (GO:0007218)	109	13	36.82	-	.35	9.10E-05	3.79E-03
+adaptive immune response (GO:0002250)	658	76	222.27	-	.34	1.08E-24	4.61E-22
+antimicrobial humoral response (GO:0019730)	154	17	52.02	-	.33	5.66E-07	3.89E-05
+immunoglobulin production (GO:0002377)	138	15	46.62	-	.32	2.21E-06	1.37E-04
+immunoglobulin mediated immune response (GO:0016064)	201	21	67.90	-	.31	3.46E-09	3.15E-07
+B cell mediated immunity (GO:0019724)	205	21	69.25	-	.30	1.76E-09	1.62E-07
+humoral immune response (GO:0006959)	386	39	130.39	-	.30	3.91E-17	8.35E-15
+phagocytosis, engulfment (GO:0006911)	132	13	44.59	-	.29	1.09E-06	7.08E-05
+detection of stimulus (GO:0051606)	721	71	243.55	-	.29	4.47E-32	3.72E-29
+keratinization (GO:0031424)	227	22	76.68	-	.29	5.37E-11	5.85E-09
+antimicrobial humoral immune response mediated by antimicrobial peptide (GO:0061844)	102	9	34.46	-	.26	5.27E-06	3.10E-04
+sensory perception of taste (GO:0050909)	69	6	23.31	-	.26	2.53E-04	9.38E-03
+regulation of humoral immune response (GO:0002920)	142	12	47.97	-	.25	3.82E-08	3.04E-06
+killing of cells of other organism (GO:0031640)	87	7	29.39	-	.24	1.34E-05	7.13E-04
+regulation of complement activation (GO:0030449)	118	8	39.86	-	.20	4.65E-08	3.66E-06
+B cell receptor signaling pathway (GO:0050853)	129	8	43.58	-	.18	4.33E-09	3.85E-07
+peptide cross-linking (GO:0018149)	102	5	34.46	-	.15	3.35E-08	2.70E-06
+sensory perception of bitter taste (GO:0050913)	41	2	13.85	-	.14	6.65E-04	2.17E-02
+humoral immune response mediated by circulating immunoglobulin (GO:0002455)	165	8	55.74	-	.14	7.91E-13	1.05E-10
+complement activation (GO:0006956)	177	7	59.79	-	.12	7.71E-15	1.30E-12
+detection of stimulus involved in sensory perception (GO:0050906)	557	22	188.15	-	.12	3.86E-45	7.62E-42
+complement activation, classical pathway (GO:0006958)	161	5	54.39	-	.09	9.37E-15	1.56E-12
+phagocytosis, recognition (GO:0006910)	106	3	35.81	-	.08	2.51E-10	2.49E-08
+sensory perception of chemical stimulus (GO:0007606)	543	14	183.43	-	.08	8.42E-51	2.66E-47
+sensory perception of smell (GO:0007608)	468	8	158.09	-	.05	4.37E-48	1.15E-44
+detection of chemical stimulus (GO:0009593)	522	8	176.33	-	.05	8.39E-55	4.42E-51
+opsonization (GO:0008228)	72	1	24.32	-	.04	3.30E-08	2.67E-06
+detection of chemical stimulus involved in sensory perception of bitter taste (GO:0001580)	36	0	12.16	-	 < 0.01	5.32E-05	2.41E-03
+detection of chemical stimulus involved in sensory perception of taste (GO:0050912)	42	0	14.19	-	 < 0.01	7.44E-06	4.31E-04
+detection of chemical stimulus involved in sensory perception of smell (GO:0050911)	441	0	148.97	-	 < 0.01	7.03E-57	5.56E-53
+detection of chemical stimulus involved in sensory perception (GO:0050907)	486	0	164.17	-	 < 0.01	1.36E-62	2.15E-58
