@@ -123,6 +123,10 @@ https://raw.githubusercontent.com/melkofman/bioinf_project_G4_H3K4me3/mokofman/d
  `track visibility=dense name="intersect_with_G4"  color=200,0,0  description=" H3K4me3_GM12878_intersect_G4.bed"
 https://raw.githubusercontent.com/melkofman/bioinf_project_G4_H3K4me3/mokofman/data/H3K4me3_GM12878_intersect_G4.bed
 `
+
+
+ ![alt text](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/images/int_g_b.png "пересечение")
+ Координаты: chr1:762,047-762,071
  
  ![alt text](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/mokofman/images/intersect_genbr.png "пересечение")
  
