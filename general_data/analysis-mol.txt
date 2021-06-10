@@ -1,0 +1,29 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20210224)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.4735677 Released 2021-05-01
+Analyzed List:	Client Text Box Input (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO molecular function complete	Homo sapiens - REFLIST (20595)	Client Text Box Input (609)	Client Text Box Input (expected)	Client Text Box Input (over/under)	Client Text Box Input (fold Enrichment)	Client Text Box Input (raw P-value)	Client Text Box Input (FDR)
+transcription coactivator activity (GO:0003713)	276	23	8.16	+	2.82	1.98E-05	6.43E-03
+transcription coregulator activity (GO:0003712)	504	32	14.90	+	2.15	1.06E-04	3.04E-02
+enzyme binding (GO:0019899)	2050	104	60.62	+	1.72	1.22E-07	8.48E-05
+transcription regulator activity (GO:0140110)	1943	95	57.46	+	1.65	2.46E-06	1.50E-03
+DNA binding (GO:0003677)	2488	108	73.57	+	1.47	7.19E-05	2.19E-02
+nucleic acid binding (GO:0003676)	3984	164	117.81	+	1.39	7.71E-06	2.68E-03
+organic cyclic compound binding (GO:0097159)	6017	233	177.92	+	1.31	2.55E-06	1.38E-03
+heterocyclic compound binding (GO:1901363)	5937	228	175.56	+	1.30	6.96E-06	2.60E-03
+protein binding (GO:0005515)	14333	509	423.83	+	1.20	6.89E-15	3.35E-11
+binding (GO:0005488)	16501	552	487.94	+	1.13	3.62E-12	8.81E-09
+molecular_function (GO:0003674)	18242	583	539.42	+	1.08	9.36E-10	1.14E-06
+molecular transducer activity (GO:0060089)	1609	20	47.58	-	.42	6.45E-06	2.85E-03
+signaling receptor activity (GO:0038023)	1609	20	47.58	-	.42	6.45E-06	2.61E-03
+Unclassified (UNCLASSIFIED)	2353	26	69.58	-	.37	9.36E-10	1.52E-06
+transmembrane signaling receptor activity (GO:0004888)	1386	11	40.98	-	.27	4.51E-08	3.66E-05
+G protein-coupled receptor activity (GO:0004930)	882	3	26.08	-	.12	2.49E-08	2.42E-05
+olfactory receptor activity (GO:0004984)	441	0	13.04	-	 < 0.01	4.04E-06	1.96E-03
