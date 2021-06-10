@@ -31,7 +31,7 @@
 
 Далее были получены [список ассоциированных с генами пиков](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/main/general_data/total_intersect.genes.txt) и [список уникальных генов](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/main/general_data/total_intersect.genes_uniq.txt) и был проведен GO-анализ для [биологической](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/main/general_analizes/analysis-bio.txt) и [молекулярной](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/main/general_analizes/analysis-mol.txt) функций.
 
-Презентацию проекта можно найти по [ссылке](https://docs.google.com/presentation/d/1fHt9A1bpZcLjFHenev61ol-rKMtodNAvxG6R4VcET-Q/edit?usp=sharing), в ней представлены графики для индивидуальных экспериментов, обзор исходных файлов и обсуждение результатов GO-анализа.
+Презентацию проекта можно найти по [ссылке](https://docs.google.com/presentation/d/1fHt9A1bpZcLjFHenev61ol-rKMtodNAvxG6R4VcET-Q/edit?usp=sharing), в ней представлены теоретическое введение, обзор исходных файлов, графики для индивидуальных экспериментов, техническая сторона выполнения задания и обсуждение результатов.
 
 #### Вопросы.
 С вопросами можно обратиться к Егорову Игорю в телеграме @typicalSeVeR или по почте isegorov@edu.hse.ru
