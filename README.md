@@ -25,4 +25,12 @@
   * Гистоновая метка: H3K4me3.
   * Типы клеток: GM12878, DND-41, WI38, H9, SK-N-MC, H1, HeLa-S3, HepG2, А549.
 
-С вопросами можно обратиться к Егорову Игорю в телеграмме @typicalSeVeR или по почте isegorov@edu.hse.ru
+#### Командные результаты
+Был создан общий `.bed` [файл](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/main/general_data/total_intersect.bed) с пересечением всех индивидуальных пересечений для дальнейшего исследования и для него было получено [распределение пиков по длинам](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/main/general_data/len_hist.total_intersect.png) и [аннотация по участкам генов](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/main/general_data/chip_seeker.total_intersect.plotAnnoPie.png).
+По [ссылке](https://genome.ucsc.edu/s/SerebrennikovAlexandr/minor_bioinformatics_group) можно перейти в сессию геномного браузера с визуализацией полученных результатов.
+
+Далее были получены [список ассоциированных с генами пиков](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/main/general_data/total_intersect.genes.txt) и [список уникальных генов](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/main/general_data/total_intersect.genes_uniq.txt) и был проведен GO-анализ для [биологической](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/main/general_analizes/analysis-bio.txt) и [молекулярной](https://github.com/melkofman/bioinf_project_G4_H3K4me3/blob/main/general_analizes/analysis-mol.txt) функций.
+
+Презентацию проекта можно найти по [ссылке](https://docs.google.com/presentation/d/1fHt9A1bpZcLjFHenev61ol-rKMtodNAvxG6R4VcET-Q/edit?usp=sharing), в ней представлены графики для индивидуальных экспериментов, обзор исходных файлов и обсуждение результатов GO-анализа.
+
+С вопросами можно обратиться к Егорову Игорю в телеграме @typicalSeVeR или по почте isegorov@edu.hse.ru
